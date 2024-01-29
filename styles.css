@@ -16,6 +16,10 @@ body {
     text-align: center;
 }
 
+.recipes {
+    display: flex;
+}
+
 img, picture, video, canvas, svg {
     display: block;
     max-width: 100%;
