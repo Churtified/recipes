@@ -1,3 +1,4 @@
 # recipes
 
-My favorite recipes from my childhood to now
+## Intro
+My favorite recipes from my childhood to now.
